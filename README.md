@@ -96,13 +96,15 @@
 - [ ] Develop new clinical genomics pipelines
 - [ ] Share more bioinformatics tutorials and documentation
 - [ ] Expand cloud computing expertise
+- [ ] Present at bioinformatics conferences
+- [ ] Publish research papers in genomics
 - [ ] Mentor aspiring bioinformaticians
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaseRushton&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseRushton&theme=react" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaseRushton&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseRushton&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## 📫 How to Reach Me
