@@ -25,6 +25,7 @@
 - Implementing best practices in clinical sequencing analysis
 
 ## 🗂️ Featured Projects
+- [ICA Tools](https://github.com/ChaseRushton/ica-tools) - Comprehensive toolkit for automating Illumina Connected Analytics (ICA) workflows, designed for Penn Medicine's PCD
 - [SensSpec](https://github.com/ChaseRushton/SensSpec) - Tool for calculating sensitivity and specificity metrics in variant calling
 - [Python_code](https://github.com/ChaseRushton/Python_code) - Collection of bioinformatics Python scripts
 - [RandomScripts](https://github.com/ChaseRushton/RandomScripts) - Various utility scripts for data analysis
