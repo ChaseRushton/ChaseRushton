@@ -1,22 +1,120 @@
-# 💫 About Me:
-Bioinformatician at PennMedicine<br><br>Public projects and Repositories<br>Work Repositories are not visible
+# 👋 Hi, I'm Chase Rushton
 
+> [!NOTE]  
+> **Repository Visibility Notice:**  
+> This profile shows only public projects and contributions. Work-related repositories and sensitive projects remain private and are not visible here.
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrushh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chase-rushton-83abb8163) 
- 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&random=false&width=435&lines=Bioinformatician+at+PennMedicine;NGS+Data+Analysis+Expert;Pipeline+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChaseRushton&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChaseRushton&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseRushton&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 💫 About Me
+🧬 Bioinformatician at PennMedicine  
+🔬 Specializing in genomic data analysis and pipeline development  
+💻 Passionate about automating bioinformatics workflows  
+🌐 Visit my website: [chaserushton.com](https://www.chaserushton.com)  
+🤝 Open to collaborating on bioinformatics and data science projects  
+📚 Continuously learning and exploring new technologies  
+🎯 Focus on clinical genomics and precision medicine
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔭 Current Work
+- Developing and maintaining bioinformatics pipelines
+- Analyzing genomic data and variant calling
+- Automating data processing workflows
+- Creating tools for clinical genomics applications
+- Implementing best practices in clinical sequencing analysis
+
+## 🗂️ Featured Projects
+- [SensSpec](https://github.com/ChaseRushton/SensSpec) - Tool for calculating sensitivity and specificity metrics in variant calling
+- [Python_code](https://github.com/ChaseRushton/Python_code) - Collection of bioinformatics Python scripts
+- [RandomScripts](https://github.com/ChaseRushton/RandomScripts) - Various utility scripts for data analysis
+
+## 🌐 Connect With Me
+[![Website](https://img.shields.io/badge/Website-chaserushton.com-blue?style=flat-square&logo=google-chrome)](https://www.chaserushton.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chase-rushton-83abb8163)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrushh)
+
+## 💻 Tech Stack
+
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Bioinformatics Tools
+![Snakemake](https://img.shields.io/badge/snakemake-%23147259.svg?style=for-the-badge&logo=snake&logoColor=white)
+![BWA](https://img.shields.io/badge/BWA-%23404d59.svg?style=for-the-badge)
+![GATK](https://img.shields.io/badge/GATK-%23150458.svg?style=for-the-badge)
+![Samtools](https://img.shields.io/badge/Samtools-%23F05033.svg?style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Version Control & CI/CD
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Data Science & Analysis
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 📊 Bioinformatics Expertise
+- NGS Data Analysis
+  - Whole Genome Sequencing
+  - Exome Sequencing
+  - RNA-Seq
+  - ChIP-Seq
+- Variant Analysis
+  - SNV/Indel Calling
+  - Structural Variant Detection
+  - Copy Number Variation
+- Pipeline Development
+  - WDL Workflows
+  - Snakemake Pipelines
+  - Nextflow
+- Clinical Applications
+  - Diagnostic Sequencing
+  - Precision Medicine
+  - Quality Control
+
+## 🎯 Goals for 2025
+- [ ] Contribute to open-source bioinformatics tools
+- [ ] Develop new clinical genomics pipelines
+- [ ] Share more bioinformatics tutorials and documentation
+- [ ] Expand cloud computing expertise
+- [ ] Mentor aspiring bioinformaticians
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaseRushton&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseRushton&theme=react" alt="GitHub Streak" />
+</div>
+
+## 📫 How to Reach Me
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/chase-rushton-83abb8163)
+- 🌐 Visit my website: [chaserushton.com](https://www.chaserushton.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-chaserushton@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaserushton@gmail.com)
+- 💬 Open an issue in any of my repositories
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChaseRushton&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ChaseRushton&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"The good thing about science is that it's true whether or not you believe in it." - Neil deGrasse Tyson*
+</div>
