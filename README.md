@@ -9,12 +9,8 @@
 </div>
 
 ## About Me
-Bioinformatician at PennMedicine  
-Specializing in genomic data analysis and pipeline development  
-Passionate about automating bioinformatics workflows  
-Open to collaborating on bioinformatics and data science projects  
-Continuously learning and exploring new technologies  
-Focus on clinical genomics and precision medicine
+Bioinformatician | Genomic Data Analysis & Workflow Automation | Penn Medicine
+I specialize in genomic data analysis and pipeline development, with a strong passion for automating bioinformatics workflows. Focused on clinical genomics and precision medicine, I enjoy collaborating on bioinformatics and data science projects while continuously exploring new technologies to advance research and improve patient outcomes.
 
 ## Current Work
 - Developing and maintaining bioinformatics pipelines
