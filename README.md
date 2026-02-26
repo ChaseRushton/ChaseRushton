@@ -12,7 +12,6 @@
 🧬 Bioinformatician at PennMedicine  
 🔬 Specializing in genomic data analysis and pipeline development  
 💻 Passionate about automating bioinformatics workflows  
-🌐 Visit my website: [chaserushton.com](https://www.chaserushton.com](https://chaserushton.github.io/chase-main/))  
 🤝 Open to collaborating on bioinformatics and data science projects  
 📚 Continuously learning and exploring new technologies  
 🎯 Focus on clinical genomics and precision medicine
@@ -193,7 +192,6 @@
 
 ## 📫 How to Reach Me
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/chase-rushton-83abb8163)
-- 🌐 Visit my website: [chaserushton.com](https://www.chaserushton.com)
 - [![Gmail](https://img.shields.io/badge/Gmail-chaserushton@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaserushton@gmail.com)
 - 💬 Open an issue in any of my repositories
 
