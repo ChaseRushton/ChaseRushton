@@ -23,14 +23,6 @@
 - Creating tools for clinical genomics applications
 - Implementing best practices in clinical sequencing analysis
 
-## 🗂️ Featured Projects
-- [Genomic Data Lake](https://github.com/ChaseRushton/GenomicDataLake) - Advanced genomic data management system with interactive visualizations and multi-format support (TMB, CNV, VCF, MAF)
-- [GenomicTools](https://github.com/ChaseRushton/GenomicTools) - Comprehensive Python toolkit for genomic data analysis, including variant calling, annotation, and QC metrics
-- [ICA Tools](https://github.com/ChaseRushton/ica-tools) - Comprehensive toolkit for automating Illumina Connected Analytics (ICA) workflows, designed for Penn Medicine's PCD
-- [SensSpec](https://github.com/ChaseRushton/SensSpec) - Tool for calculating sensitivity and specificity metrics in variant calling
-- [Python_code](https://github.com/ChaseRushton/Python_code) - Collection of bioinformatics Python scripts
-- [RandomScripts](https://github.com/ChaseRushton/RandomScripts) - Various utility scripts for data analysis
-
 ## 🌐 Connect With Me
 [![Website](https://img.shields.io/badge/Website-chaserushton.com-blue?style=flat-square&logo=google-chrome)](https://www.chaserushton.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chase-rushton-83abb8163)
