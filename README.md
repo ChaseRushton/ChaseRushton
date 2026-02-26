@@ -194,5 +194,4 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=ChaseRushton&color=blue)
 
-*"The good thing about science is that it's true whether or not you believe in it." - Neil deGrasse Tyson*
 </div>
