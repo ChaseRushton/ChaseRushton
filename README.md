@@ -183,14 +183,6 @@
   - Precision Medicine
   - Quality Control
 
-## 🎯 Goals for 2025
-- [ ] Contribute to open-source bioinformatics tools
-- [ ] Develop new clinical genomics pipelines
-- [ ] Share more bioinformatics tutorials and documentation
-- [ ] Expand cloud computing expertise
-- [ ] Present at bioinformatics conferences
-- [ ] Publish research papers in genomics
-- [ ] Mentor aspiring bioinformaticians
 
 ## 📈 GitHub Stats
 
