@@ -183,35 +183,6 @@
   - Quality Control
 
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <!-- Main Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaseRushton&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseRushton&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaseRushton&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"/>
-</div>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChaseRushton&theme=react-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB86C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF"/>
-</div>
-
-<div align="center">
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaseRushton&theme=react-dark&no-frame=true&no-bg=true&margin-w=4"/>
-</div>
-
-### 📊 Additional Metrics
-<div align="center">
-  <img src="https://metrics.lecoq.io/ChaseRushton?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&commits=true&commits.load=300&commits.from=2024-01-01&commits.to=2024-12-31&commits.days=14&activity=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&people=true&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=true&repositories.batch=100&repositories.forks=false&repositories.affiliations=github&languages=true&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.indepth=false&languages.analysis.timeout=15&languages.categories=programming%2C%20data&languages.recent.load=100&languages.recent.days=14&metadata=true&metadata.depth=4&line=Brave%20Browser&line.width=40&line.color=FF0000&separator=🔥&separator.title=🔥%20My%20GitHub%20Activity&separator.line.height=1"/>
-</div>
 
 ## 📫 How to Reach Me
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/chase-rushton-83abb8163)
