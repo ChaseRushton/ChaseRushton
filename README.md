@@ -8,29 +8,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&random=false&width=435&lines=Bioinformatician+at+PennMedicine;NGS+Data+Analysis+Expert;Pipeline+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
-🧬 Bioinformatician at PennMedicine  
-🔬 Specializing in genomic data analysis and pipeline development  
-💻 Passionate about automating bioinformatics workflows  
-🤝 Open to collaborating on bioinformatics and data science projects  
-📚 Continuously learning and exploring new technologies  
-🎯 Focus on clinical genomics and precision medicine
+## About Me
+Bioinformatician at PennMedicine  
+Specializing in genomic data analysis and pipeline development  
+Passionate about automating bioinformatics workflows  
+Open to collaborating on bioinformatics and data science projects  
+Continuously learning and exploring new technologies  
+Focus on clinical genomics and precision medicine
 
-## 🔭 Current Work
+## Current Work
 - Developing and maintaining bioinformatics pipelines
 - Analyzing genomic data and variant calling
 - Automating data processing workflows
 - Creating tools for clinical genomics applications
 - Implementing best practices in clinical sequencing analysis
 
-## 🌐 Connect With Me
+## Connect With Me
 [![Website](https://img.shields.io/badge/Website-chaserushton.com-blue?style=flat-square&logo=google-chrome)](https://www.chaserushton.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chase-rushton-83abb8163)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrushh)
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -38,7 +38,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🧬 Bioinformatics Tools
+### Bioinformatics Tools
 #### Sequence Analysis
 ![GATK](https://img.shields.io/badge/GATK-red?style=flat-square)
 ![BWA](https://img.shields.io/badge/BWA-purple?style=flat-square)
@@ -73,7 +73,7 @@
 ![bgzip](https://img.shields.io/badge/bgzip-gray?style=flat-square)
 ![tabix](https://img.shields.io/badge/tabix-brown?style=flat-square)
 
-### 🌐 Web Technologies
+### Web Technologies
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -86,7 +86,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -101,7 +101,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
 
-### 📊 Data Science & ML
+### Data Science & ML
 #### Core Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -118,7 +118,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2369B3A2.svg?style=flat-square&logo=python&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 #### SQL
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -127,7 +127,7 @@
 #### NoSQL
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🔧 Development Tools
+### Development Tools
 #### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -141,7 +141,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 
-### 📝 Workflow Languages
+### Workflow Languages
 #### Pipeline Development
 ![WDL](https://img.shields.io/badge/WDL-blue?style=flat-square)
 ![Snakemake](https://img.shields.io/badge/Snakemake-darkgreen?style=flat-square)
@@ -155,7 +155,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white)
 ![Cron](https://img.shields.io/badge/Cron-darkgreen?style=flat-square)
 
-## 📊 Bioinformatics Expertise
+## Bioinformatics Expertise
 - NGS Data Analysis
   - Whole Genome Sequencing
   - Exome Sequencing
@@ -176,10 +176,10 @@
 
 
 
-## 📫 How to Reach Me
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/chase-rushton-83abb8163)
+## How to Reach Me
+- Connect with me on [LinkedIn](https://linkedin.com/in/chase-rushton-83abb8163)
 - [![Gmail](https://img.shields.io/badge/Gmail-chaserushton@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaserushton@gmail.com)
-- 💬 Open an issue in any of my repositories
+- Open an issue in any of my repositories
 
 ---
 <div align="center">
